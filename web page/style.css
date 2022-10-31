@@ -8,7 +8,7 @@
     color: black;
     width: 400px;
     height: 100px;
-    line-height: 30px;
+    line-height: 100px;
     margin-left: 120px;
     font-family: serif;
     font-size: xx-large;
@@ -46,7 +46,7 @@
         width: 370px;
         height: 180px;
         text-align: left; 
-        margin-left: 130px; 
+        margin-left: 120px; 
         margin-top: 80px;
         text-align: center; 
         padding: 10fx;
